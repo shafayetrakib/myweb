@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/martktcap"
+        android:title="MarketCap"
+        android:icon="@drawable/one"/>
+
+    <item android:icon="@drawable/one"
+        android:title="Gallery"
+        android:id="@+id/gellary"/>
+
+    <item android:id="@+id/mybook"
+        android:title="Mybook"
+        android:icon="@drawable/one"/>
+
+    <item android:icon="@drawable/one"
+        android:id="@+id/login"
+        android:title="Login"/>
+
+</menu>
