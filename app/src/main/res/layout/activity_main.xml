@@ -27,6 +27,7 @@
         app:itemIconTint="@color/blue"
         app:itemTextColor="@color/blue"
         app:itemIconSize="26dp"
+        app:itemActiveIndicatorStyle="@style/App.CustomActivator"
         />
 
 
